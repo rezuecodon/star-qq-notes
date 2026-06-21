@@ -1,2 +1,14 @@
 # star-qq-notes
-HTML page archive and documentation
+
+自动页面托管记录
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
